@@ -1,0 +1,36 @@
+G:\RealProjectB1-Class-15\RealProjectB1_L\BLL\bin\Debug\BLL.dll
+G:\RealProjectB1-Class-15\RealProjectB1_L\BLL\bin\Debug\BLL.pdb
+G:\RealProjectB1-Class-15\RealProjectB1_L\BLL\bin\Debug\DAL.dll
+G:\RealProjectB1-Class-15\RealProjectB1_L\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\RealProjectB1-Class-15\RealProjectB1_L\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\RealProjectB1-Class-15\RealProjectB1_L\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+G:\RealProjectB1-Class-15\RealProjectB1_L\BLL\bin\Debug\DAL.pdb
+G:\RealProjectB1-Class-15\RealProjectB1_L\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+G:\RealProjectB1-Class-15\RealProjectB1_L\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+G:\RealProjectB1-Class-15\RealProjectB1_L\BLL\obj\Debug\BLL.csproj.CopyComplete
+G:\RealProjectB1-Class-15\RealProjectB1_L\BLL\obj\Debug\BLL.dll
+G:\RealProjectB1-Class-15\RealProjectB1_L\BLL\obj\Debug\BLL.pdb
+F:\ASP dot NET\ASP dotNet\Daily Project\Class 24\RealProjectB1-Class-15\RealProjectB1_L\BLL\bin\Debug\BLL.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\Class 24\RealProjectB1-Class-15\RealProjectB1_L\BLL\bin\Debug\BLL.pdb
+F:\ASP dot NET\ASP dotNet\Daily Project\Class 24\RealProjectB1-Class-15\RealProjectB1_L\BLL\bin\Debug\DAL.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\Class 24\RealProjectB1-Class-15\RealProjectB1_L\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\Class 24\RealProjectB1-Class-15\RealProjectB1_L\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\Class 24\RealProjectB1-Class-15\RealProjectB1_L\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\Class 24\RealProjectB1-Class-15\RealProjectB1_L\BLL\bin\Debug\DAL.pdb
+F:\ASP dot NET\ASP dotNet\Daily Project\Class 24\RealProjectB1-Class-15\RealProjectB1_L\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\ASP dot NET\ASP dotNet\Daily Project\Class 24\RealProjectB1-Class-15\RealProjectB1_L\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\ASP dot NET\ASP dotNet\Daily Project\Class 24\RealProjectB1-Class-15\RealProjectB1_L\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\ASP dot NET\ASP dotNet\Daily Project\Class 24\RealProjectB1-Class-15\RealProjectB1_L\BLL\obj\Debug\BLL.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\Class 24\RealProjectB1-Class-15\RealProjectB1_L\BLL\obj\Debug\BLL.pdb
+F:\ASP dot NET\ASP dotNet\My Project\RealProjectB1-Class-15\RealProjectB1_L\BLL\bin\Debug\BLL.dll
+F:\ASP dot NET\ASP dotNet\My Project\RealProjectB1-Class-15\RealProjectB1_L\BLL\bin\Debug\BLL.pdb
+F:\ASP dot NET\ASP dotNet\My Project\RealProjectB1-Class-15\RealProjectB1_L\BLL\bin\Debug\DAL.dll
+F:\ASP dot NET\ASP dotNet\My Project\RealProjectB1-Class-15\RealProjectB1_L\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\ASP dot NET\ASP dotNet\My Project\RealProjectB1-Class-15\RealProjectB1_L\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\ASP dot NET\ASP dotNet\My Project\RealProjectB1-Class-15\RealProjectB1_L\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\ASP dot NET\ASP dotNet\My Project\RealProjectB1-Class-15\RealProjectB1_L\BLL\bin\Debug\DAL.pdb
+F:\ASP dot NET\ASP dotNet\My Project\RealProjectB1-Class-15\RealProjectB1_L\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\ASP dot NET\ASP dotNet\My Project\RealProjectB1-Class-15\RealProjectB1_L\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\ASP dot NET\ASP dotNet\My Project\RealProjectB1-Class-15\RealProjectB1_L\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\ASP dot NET\ASP dotNet\My Project\RealProjectB1-Class-15\RealProjectB1_L\BLL\obj\Debug\BLL.dll
+F:\ASP dot NET\ASP dotNet\My Project\RealProjectB1-Class-15\RealProjectB1_L\BLL\obj\Debug\BLL.pdb
